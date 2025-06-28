@@ -84,4 +84,35 @@ For client presentations
 
 During user testing to validate usability and structure
 
-Example: A digital wireframe that shows actual text content, buttons, dropdown menus, and exact placement of elements without applying final colors or images
+Example: A digital wireframe that shows actual text content, buttons, dropdown menus, and exact placement of elements without applying final colors or images.
+
+
+# 🛠️ Popular Wireframing Tools
+Several tools are available to help designers create effective wireframes, ranging from simple sketching applications to advanced design platforms. These tools help speed up the wireframing process, facilitate collaboration, and improve design accuracy.
+
+## 🔥 Recommended Tool: Figma
+Overview: Figma is a cloud-based design tool widely used for UI/UX design, wireframing, and prototyping. It allows real-time collaboration, meaning multiple team members can work on the same design simultaneously from different locations.
+
+Key Features:
+
+Cloud-based with real-time collaboration
+
+Intuitive drag-and-drop interface
+
+Vector-based for precise designs
+
+Built-in design libraries and templates
+
+Easy sharing with stakeholders via links
+
+Supports wireframes, prototypes, and high-fidelity designs
+
+Why It’s Useful for Wireframing:
+
+Fast and easy to create low- and high-fidelity wireframes.
+
+Team members can give feedback directly on the design.
+
+No installation needed — works entirely in the browser.
+
+Offers reusable components, which saves time and ensures consistency.
