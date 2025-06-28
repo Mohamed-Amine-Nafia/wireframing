@@ -43,3 +43,41 @@ Functional components indicate interactive elements that users can engage with.
 Purpose: Demonstrates how users will interact with the interface, even in a simplified form.
 
 Example: Search bars, dropdown menus, buttons, forms, and sliders. For instance, a login form with fields for email and password, plus a submit button.
+
+
+📊 Types of Wireframes
+Wireframes can vary in their level of detail depending on the stage of the design process. The two most common types are Low-Fidelity Wireframes and High-Fidelity Wireframes.
+
+🔹 Low-Fidelity Wireframes
+Description: Basic, simple sketches or digital outlines focusing on the overall layout and structure without detailed design elements.
+
+Appearance: Black and white, grayscale, with placeholders for images (e.g., boxes with X) and text (e.g., lines or Lorem Ipsum).
+
+Purpose: Used in the early stages of design to communicate ideas quickly and gather feedback on layout, user flow, and functionality.
+
+When to Use:
+
+Brainstorming sessions
+
+Early stakeholder meetings
+
+Quick ideation and validation of concepts
+
+Example: A hand-drawn or simple diagram showing a webpage with a header, sidebar, and content areas but no colors, fonts, or detailed graphics.
+
+🔸 High-Fidelity Wireframes
+Description: Detailed and precise wireframes that closely resemble the final design in terms of layout, spacing, and sometimes branding.
+
+Appearance: Includes real content, accurate spacing, detailed UI elements, and sometimes grayscale versions of buttons, icons, and forms.
+
+Purpose: Used to communicate detailed functionality, design intent, and user interactions.
+
+When to Use:
+
+Before transitioning to the prototyping or development stage
+
+For client presentations
+
+During user testing to validate usability and structure
+
+Example: A digital wireframe that shows actual text content, buttons, dropdown menus, and exact placement of elements without applying final colors or images
