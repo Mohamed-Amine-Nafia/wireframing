@@ -1,8 +1,11 @@
 # Wireframing
+
+
 📄 Introduction
 Wireframing is the process of creating a visual guide that represents the skeletal framework of a website, application, or digital product. It is a crucial step in the user interface (UI) and user experience (UX) design process, helping designers and stakeholders visualize the layout, structure, and functionality before any development begins.
 
-🎯 Why Wireframing is Important
+
+# 🎯 Why Wireframing is Important
 . Clarifies Ideas: Helps translate ideas into visual representations.
 
 . Improves Communication: Facilitates discussions among designers, developers, and stakeholders.
@@ -13,7 +16,8 @@ Wireframing is the process of creating a visual guide that represents the skelet
 
 . Enhances User Experience: Helps in crafting a logical and user-friendly interface.
 
-🏗️ Key Elements in a Wireframe
+
+# 🏗️ Key Elements in a Wireframe
 A wireframe focuses on the foundational elements that make up a webpage or app interface. Below are the key elements typically found in a wireframe:
 
 1. Layout Structure
@@ -45,7 +49,7 @@ Purpose: Demonstrates how users will interact with the interface, even in a simp
 Example: Search bars, dropdown menus, buttons, forms, and sliders. For instance, a login form with fields for email and password, plus a submit button.
 
 
-📊 Types of Wireframes
+# 📊 Types of Wireframes
 Wireframes can vary in their level of detail depending on the stage of the design process. The two most common types are Low-Fidelity Wireframes and High-Fidelity Wireframes.
 
 🔹 Low-Fidelity Wireframes
