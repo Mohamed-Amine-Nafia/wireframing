@@ -52,7 +52,7 @@ Example: Search bars, dropdown menus, buttons, forms, and sliders. For instance,
 # 📊 Types of Wireframes
 Wireframes can vary in their level of detail depending on the stage of the design process. The two most common types are Low-Fidelity Wireframes and High-Fidelity Wireframes.
 
-🔹 Low-Fidelity Wireframes
+## 🔹 Low-Fidelity Wireframes
 Description: Basic, simple sketches or digital outlines focusing on the overall layout and structure without detailed design elements.
 
 Appearance: Black and white, grayscale, with placeholders for images (e.g., boxes with X) and text (e.g., lines or Lorem Ipsum).
@@ -69,7 +69,7 @@ Quick ideation and validation of concepts
 
 Example: A hand-drawn or simple diagram showing a webpage with a header, sidebar, and content areas but no colors, fonts, or detailed graphics.
 
-🔸 High-Fidelity Wireframes
+## 🔸 High-Fidelity Wireframes
 Description: Detailed and precise wireframes that closely resemble the final design in terms of layout, spacing, and sometimes branding.
 
 Appearance: Includes real content, accurate spacing, detailed UI elements, and sometimes grayscale versions of buttons, icons, and forms.
