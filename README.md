@@ -129,3 +129,24 @@ Improves Communication: Aligns designers, developers, and stakeholders.
 Saves Time & Costs: Identifies issues early, avoiding expensive fixes later.
 
 Guides Development: Helps developers structure pages, navigation, and functionality accurately.
+
+
+# 🌍 Real-World Scenario: Wireframing in Action
+During the design of a hotel booking website, the initial wireframe revealed a usability issue — users couldn’t easily find the “Modify Booking” option. The button was buried under multiple sections, making it difficult to locate.
+
+## 🛠️ How It Was Resolved
+The design team reviewed the wireframe with stakeholders and developers.
+
+The “Modify Booking” button was moved to a more visible location in the top navigation bar.
+
+Additional tweaks improved the overall layout and user flow.
+
+## 🚀 Impact on the Final Product
+Users found it easier to navigate and manage bookings.
+
+Reduced customer support requests related to booking modifications.
+
+Development was smoother since the layout and functionality were finalized before coding.
+
+## ✅ Conclusion
+This scenario highlights how wireframing catches usability issues early, saving time and costs. Wireframes are essential for creating clear, user-friendly designs that align with both business goals and user needs.
