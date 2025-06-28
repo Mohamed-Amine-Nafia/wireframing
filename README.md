@@ -1,4 +1,4 @@
-Wireframing
+# Wireframing
 📄 Introduction
 Wireframing is the process of creating a visual guide that represents the skeletal framework of a website, application, or digital product. It is a crucial step in the user interface (UI) and user experience (UX) design process, helping designers and stakeholders visualize the layout, structure, and functionality before any development begins.
 
